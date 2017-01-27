@@ -1,2 +1,3 @@
 # learning
-Git and github training
+Git plus Github Training
+Changed this
